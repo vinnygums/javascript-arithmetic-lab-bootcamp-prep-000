@@ -6,7 +6,7 @@ function subtract() {
 
   
 }
-function multiplu() {
+function multiply() {
   
 }
 function divide() {
