@@ -14,7 +14,7 @@ function inc(c) {
   return(c+=1)
 }
 function dec(n) {
-  return(c-=1)
+  return(n-=1)
 }
 function makeInt(n) {
   return(parseInt(n))
